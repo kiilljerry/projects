@@ -40,4 +40,4 @@ for (const item of arr) {
     }
 }
 
-console.dir(hash)
+console.dir(hash1)
