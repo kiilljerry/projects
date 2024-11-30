@@ -9,3 +9,4 @@ const random = (min, max) => {
 };
 
 module.exports = { random };
+
